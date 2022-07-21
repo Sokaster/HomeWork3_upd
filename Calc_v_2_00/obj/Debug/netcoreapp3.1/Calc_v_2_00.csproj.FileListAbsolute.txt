@@ -1,0 +1,14 @@
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\bin\Debug\netcoreapp3.1\Calc_v_2_00.exe
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\bin\Debug\netcoreapp3.1\Calc_v_2_00.deps.json
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\bin\Debug\netcoreapp3.1\Calc_v_2_00.runtimeconfig.json
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\bin\Debug\netcoreapp3.1\Calc_v_2_00.runtimeconfig.dev.json
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\bin\Debug\netcoreapp3.1\Calc_v_2_00.dll
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\bin\Debug\netcoreapp3.1\Calc_v_2_00.pdb
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\obj\Debug\netcoreapp3.1\Calc_v_2_00.csproj.AssemblyReference.cache
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\obj\Debug\netcoreapp3.1\Calc_v_2_00.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\obj\Debug\netcoreapp3.1\Calc_v_2_00.AssemblyInfoInputs.cache
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\obj\Debug\netcoreapp3.1\Calc_v_2_00.AssemblyInfo.cs
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\obj\Debug\netcoreapp3.1\Calc_v_2_00.csproj.CoreCompileInputs.cache
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\obj\Debug\netcoreapp3.1\Calc_v_2_00.dll
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\obj\Debug\netcoreapp3.1\Calc_v_2_00.pdb
+D:\Project Courses C#\Calc_v_2_00\Calc_v_2_00\obj\Debug\netcoreapp3.1\Calc_v_2_00.genruntimeconfig.cache
